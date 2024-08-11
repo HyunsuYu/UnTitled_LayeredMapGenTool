@@ -1,25 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-
-using UnityEngine;
-
-using EasyTechToolUI;
-
-
-public sealed class Canvas_ResourceManager : TransitionCanvasMonoBehaviour<ReourceManagerCanvasCommonData>
-{
-    public override void OnTransition(in string from)
-    {
-        base.OnTransition(from);
-    }
-
-    public override void Initialize()
-    {
-        base.Initialize();
-    }
-}
-
-public sealed class ReourceManagerCanvasCommonData
-{
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdf616ecdd418b0497891b6f2ff9aa63cc4fc78d6bfe3d6e040a10f2c4a7983f
+size 1799

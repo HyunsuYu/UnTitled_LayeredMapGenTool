@@ -1,25 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-
-using UnityEngine;
-
-using EasyTechToolUI;
-
-
-public sealed class Canvas_AbstractAndBasicInputData : TransitionCanvasMonoBehaviour<AbstractAndBasicInputDataCanvasCommonData>
-{
-    public override void OnTransition(in string from)
-    {
-        base.OnTransition(from);
-    }
-
-    public override void Initialize()
-    {
-        base.Initialize();
-    }
-}
-
-public sealed class AbstractAndBasicInputDataCanvasCommonData
-{
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb22666586330fe7227670947d14d18af88b4b3713b05c2466c87241fa409892
+size 705
